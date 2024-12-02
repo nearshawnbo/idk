@@ -1,0 +1,13 @@
+# This program prints the phrase "It is raining cats and dogs."
+# Variables are defined and used to store parts of the sentence.
+
+# Step 1: Set variables for the words "cats" and "dogs."
+c = "cats"  # c stores the word "cats."
+d = "dogs"  # d stores the word "dogs."
+
+# Step 2: Create a sentence using the variables c and d.
+s = f"It is raining {c} and {d}."  # s stores the complete sentence.
+
+# Step 3: Print the sentence.
+print(s) 
+
